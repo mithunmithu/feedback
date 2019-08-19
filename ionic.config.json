@@ -1,0 +1,7 @@
+{
+  "name": "latestfeedback",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
